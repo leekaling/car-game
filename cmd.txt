@@ -1,0 +1,1 @@
+g++ -Wall -std=c++11 src/*.cpp -Iinclude -I/usr/local/include -L/usr/local/lib -lsfml-audio -lsfml-graphics -lsfml-window -lsfml-system -o car_game
